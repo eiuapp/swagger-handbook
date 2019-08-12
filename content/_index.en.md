@@ -12,14 +12,14 @@ description : "blog"
 
 ### 内容介绍
 
-这是个人博客, 主要包括一些学习笔记
+关于swagger的一些学习笔记
 
 ### 访问方式
 
 请点击下面的链接阅读:
 
-- [在线阅读](https://eiuapp.github.io/)：hugo格式，界面清爽。
-- [@github](https://github.com/eiuapp/github-handbook/)：源码托管于github，如有谬误或需讨论，请提issue，欢迎提交PR
+- [在线阅读](https://eiuapp.github.io/swagger-handbook/)：hugo格式，界面清爽。
+- [@github](https://github.com/eiuapp/swagger-handbook/)：源码托管于github，如有谬误或需讨论，请提issue，欢迎提交PR
 
 
 ### 版权申明
